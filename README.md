@@ -13,7 +13,7 @@ Elevate network security using real-time monitoring solution! NIDS, powered by t
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/piyush60629/Network-Intrusion-Detection
+   git clone https://github.com/piyush60629/Network-Intrusion-Detection.git
 
 ### Install Dependencies:
    pip install -r requirements.txt
