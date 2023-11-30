@@ -9,7 +9,15 @@ Elevate network security using real-time monitoring solution! NIDS, powered by t
 - **Alerts and Notifications:** Generates immediate alerts and notifications for timely response and mitigation.
 - **Easy Integration:** Seamlessly integrates with existing security infrastructure.
 
-## How to Use
+## Deployment
+
+The NIDS project is deployed and accessible online. You can try it out by visiting the following link:
+
+[Live Demo](https://network-intrusion-detection.onrender.com)
+
+---
+
+## Getting Started
 
 1. **Clone the Repository:**
    ```bash
